@@ -23,7 +23,8 @@ public class ObserverDesignApplication {
         iphoneObservable.add(observer3);
 
         iphoneObservable.setStockCount(10);
-
+        iphoneObservable.setStockCount(10);
+        iphoneObservable.setStockCount(100);
     }
 
 }
